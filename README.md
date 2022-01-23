@@ -18,8 +18,7 @@ SO THAT my company can compete with other e-commerce companies
  Overall,  this challenge was a great learning experience and this activity has helped me greatly advanced in my road to becoming a web developper.
 
 ## link to the deployed app can be found here: https://github.com/cloozo/ecommercebackend2021
-[Ecommerd Back END(https://github.com/cloozo/ecommercebackend2021)
-
+[Ecommerd Back END(https://www.screencast.com/t/gkrYikAk)
 
 --
 #USER STORY:
@@ -47,7 +46,6 @@ https://github.com/cloozo/https-github.com-cloozo-Team-Profile-Generator2021/blo
 -MySql
 - NODEJS
 - Express JS
-
 
 ---
 
