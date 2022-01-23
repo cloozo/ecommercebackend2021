@@ -1,5 +1,5 @@
 
-# Javascript- Ecommerce BackEND 2021
+# Javascript- Ecommerce BackEnd 2021
 ---
 ## Use of the site can be summed up with the following user story:
 
@@ -13,7 +13,6 @@ SO THAT my company can compete with other e-commerce companies
 ---
 
 ## Use of the site can be summed up with the following user story:
-
 
 ---
  Overall,  this challenge was a great learning experience and this activity has helped me greatly advanced in my road to becoming a web developper.
@@ -37,7 +36,10 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
-
+## link to the deployed app can be found here: https://github.com/cloozo/ecommercebackend2021
+[Ecommerce back end deployed](https://github.com/cloozo/https-github.com-cloozo-Team-Profile-Generator2021)
+## Link to WalkThrough Video:
+https://github.com/cloozo/https-github.com-cloozo-Team-Profile-Generator2021/blob/main/teamProfileGen.mp4
 ---
 # Technologies Used
 
@@ -49,7 +51,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ---
 
-# Assignment: Ecommerce BackEND 2021
+# Assignment: Ecommerce BackEnd2021
 
 By Jonacin Pierre-Louis, 2021
 
