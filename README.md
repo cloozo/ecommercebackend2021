@@ -35,10 +35,11 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
-## link to the deployed app can be found here: https://github.com/cloozo/ecommercebackend2021
-[Ecommerce back end deployed](https://github.com/cloozo/https-github.com-cloozo-Team-Profile-Generator2021)
+## Github Link: https://github.com/cloozo/ecommercebackend2021
+[Please check the Video for the Ecommerce back:](https://www.screencast.com/t/gkrYikAk)
 ## Link to WalkThrough Video:
-https://github.com/cloozo/https-github.com-cloozo-Team-Profile-Generator2021/blob/main/teamProfileGen.mp4
+https://www.screencast.com/t/gkrYikAk
+
 ---
 # Technologies Used
 
