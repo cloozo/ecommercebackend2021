@@ -17,11 +17,13 @@ SO THAT my company can compete with other e-commerce companies
 ---
  Overall,  this challenge was a great learning experience and this activity has helped me greatly advanced in my road to becoming a web developper.
 
-## link to the deployed app can be found here: https://github.com/cloozo/ecommercebackend2021
-[Ecommerd Back END(https://www.screencast.com/t/gkrYikAk)
+## Github Link: https://github.com/cloozo/ecommercebackend2021
+[Please check the Video for the Ecommerce back:](https://www.screencast.com/t/gkrYikAk)
+## Link to WalkThrough Video:
+https://www.screencast.com/t/gkrYikAk
 
 --
-#USER STORY:
+# USER STORY:
 ---
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
@@ -35,10 +37,6 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
-## Github Link: https://github.com/cloozo/ecommercebackend2021
-[Please check the Video for the Ecommerce back:](https://www.screencast.com/t/gkrYikAk)
-## Link to WalkThrough Video:
-https://www.screencast.com/t/gkrYikAk
 
 ---
 # Technologies Used
